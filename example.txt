@@ -1,1 +1,1 @@
-so this is example file in git learning process
+so this is example file in git learning process hey you are now on dev 2 and dev1 already updated this text and main accepted pull request okay lets learn and understand conflicts
