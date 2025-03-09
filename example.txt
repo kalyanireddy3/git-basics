@@ -1,1 +1,1 @@
-so this is example file in git learning process
+so this is example file in git learning process and ho you are trying to update now for learning merge conflicts
